@@ -5,6 +5,7 @@ Welcome to PartyImp!
 Follow the instructions below to download and install the PartyImp Android app.
 
 Note: The APK is intended for Android devices.
+Click here to download beta app: https://github.com/XGX268/PartyImp/releases/tag/PartyImp-Android-beta-v0.0.1
 
 ⸻
 
